@@ -1,0 +1,32 @@
+1,Veg Manchurian,50
+2,Chilli Potato,50
+3,Spring Roll,75
+4,Chilli Panner,90
+5,Crispy Veg,100
+6,veg kabbab,120
+7,Veg Fried Rice,65
+8,Schezwan Rice,70
+9,Mushroom Rice,75
+10,Paneer Rice,80
+11,Vegetable Pulao,70
+12,Masala Rice,70
+13,Egg Noodles,80
+14,Hakka Noodles,75
+15,Garlic Noodles,70
+16,Masala Maggi,65
+17,Tadka Maggi,60
+18,Pav Bhaji,120
+19,Jain Pav Bhaji,140
+20,Cheez Pav Bhaji,140
+21,Extra Pav,20
+22,Pizza(Onion),190
+23,Pizza(Tomato),190
+24,Pizza(Paneer),190
+25,Pizza(Corn),190
+26,Milk Shake,60
+27,Oreo Shake,70
+28,Kitkat Shake,90
+29,apple Shake,80
+30,chocolate Shake,75
+31,Banana Shake,65
+32,Mango Shake,70
